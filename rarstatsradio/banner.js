@@ -1,6 +1,6 @@
 {
   "popup": {
-    "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/popup.png",
+    "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/popups.png",
     "linkUrl": "https://www.secureserver.net/?pl_id=374111"
   },
   "options": {
