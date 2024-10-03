@@ -6,5 +6,9 @@
   "options": {
     "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/options.png",
     "linkUrl": "https://www.secureserver.net/?pl_id=374111"
+  },
+    "dashboard": {
+    "imageUrl": "https://dummyimage.com/75x75/555/fff",
+    "linkUrl": "https://www.secureserver.net/?pl_id=374111"
   }
 }
