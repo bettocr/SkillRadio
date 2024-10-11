@@ -1,0 +1,16 @@
+{
+  "stream_url": "http://209.126.108.55:8014/vidaenabundancia",
+  "background_image": "https://bettocr.github.io/SkillRadio/CatolicaRadio/crpr-bg.png",
+  "logo": "https://bettocr.github.io/SkillRadio/CatolicaRadio/crpr-logo.png",
+  "developer_info": "RAR Computacion",
+  "social_media": [
+    {
+      "icon": "http://example.com/facebook_icon.png",
+      "url": "https://facebook.com/your_page"
+    },
+    {
+      "icon": "http://example.com/twitter_icon.png",
+      "url": "https://twitter.com/your_account"
+    }
+  ]
+}
