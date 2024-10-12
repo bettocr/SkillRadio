@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Radio 1",
+    "streamUrl": "http://example.com/radio1.m3u8",
+    "logo": "pkg:/images/radio1_logo.png",
+    "country": "España",
+    "background": "pkg:/images/bg.png"
+  },
+  {
+    "name": "Radio 2",
+    "streamUrl": "http://example.com/radio2.m3u8",
+    "logo": "pkg:/images/radio2_logo.png",
+    "country": "México",
+    "background": "pkg:/images/bg.png"
+  },
+  {
+    "name": "Radio 3",
+    "streamUrl": "http://example.com/radio3.m3u8",
+    "logo": "pkg:/images/radio3_logo.png",
+    "country": "Argentina",
+    "background": "pkg:/images/bg.png"
+  }
+]
