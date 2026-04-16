@@ -10,5 +10,8 @@
     "dashboard": {
     "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/coffee.png",
     "linkUrl": "https://ko-fi.com/bettocr"
+  },
+  "roku": {
+    "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/popups.png"
   }
 }
