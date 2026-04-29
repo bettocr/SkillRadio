@@ -1,0 +1,17 @@
+{
+  "news": {
+    "id": 20240428,
+    "es": {
+      "title": "¡Bienvenido al canal de noticias!",
+      "message": "Aquí te informaremos sobre nuevas radios y funciones especiales.",
+      "btnText": "Ver más"
+    },
+    "en": {
+      "title": "Welcome to the News Channel!",
+      "message": "We will inform you here about new radio stations and special features.",
+      "btnText": "Read more"
+    },
+    "image": "https://bettocr.github.io/SkillRadio/rarstatsradio/news_banner.png",
+    "btnUrl": "https://ko-fi.com/bettocr"
+  }
+}
