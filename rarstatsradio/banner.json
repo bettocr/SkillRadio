@@ -13,5 +13,11 @@
   },
   "roku": {
     "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/rokuapp.jpg"
+  },
+   "androidtv": {
+    "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/rokuapp.jpg"
+  },
+   "appletv": {
+    "imageUrl": "https://bettocr.github.io/SkillRadio/rarstatsradio/rokuapp.jpg"
   }
 }
